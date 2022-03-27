@@ -8,17 +8,17 @@
     <version>1.0</version>
     <developers>
         <developer>
-            <id>jeszy</id>
-            <name>Péter Jeszenszky</name>
-            <email>jeszenszky.peter@inf.unideb.hu</email>
-            <organization>Faculty of Informatics, University of Debrecen</organization>
-            <organizationUrl>http://www.inf.unideb.hu/</organizationUrl>
+            <id>kvcsmiki</id>
+            <name>Kovács Miklós Szabolcs</name>
+            <email>kovacs.miklos.szabolcs@gmail.com</email>
         </developer>
     </developers>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>17</maven.compiler.release>
         <jackson.version>2.13.1</jackson.version>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
     </properties>
     <dependencies>
         <dependency>
